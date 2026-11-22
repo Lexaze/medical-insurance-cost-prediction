@@ -1,5 +1,4 @@
 # Exclude raw data, notebooks, and generated report images
-data/
 docs/
 notebooks/
 reports/
