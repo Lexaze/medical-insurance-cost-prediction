@@ -1,0 +1,15 @@
+# Exclude raw data, notebooks, and generated report images
+data/
+docs/
+notebooks/
+reports/
+DEPLOYMENT.md
+
+# Standard Python & Editor ignores
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
